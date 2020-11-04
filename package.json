@@ -1,0 +1,22 @@
+{
+  "name": "wmoos2-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarBuggy/wmoos2-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WarBuggy/wmoos2-server/issues"
+  },
+  "homepage": "https://github.com/WarBuggy/wmoos2-server#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
